@@ -62,7 +62,7 @@ const BirthdayCard = ({ onShowMessage }) => {
 
                         ¡Feliz cumpleaños, hermosa! 🎂🌷<br /><br />
 
-                        Con mucho cariño, para esa personita tan especial: <strong>Yuyi - Yuli - Yuliita - Yulianita = Yuliana ✨😊</strong>
+                        Con mucho cariño, para esa personita tan especial: <strong>Yuyi - Yuli - Yulicita - Yulianita = Yuliana ✨😊</strong>
                     </p>
                     {/* Aca debe de quedar el audio */}
                     

@@ -38,4 +38,4 @@ Que cada sonrisa tuya siga haciendo de este mundo un lugar más bonito. 🌸
 
 **Con muchísimo cariño,  
 para la personita más especial:**  
-**Yuyi - Yuli - Yuliita - Yulianita = Yuliana 💖🌟**
+**Yuyi - Yuli - Yulicita - Yulianita = Yuliana 💖🌟**
