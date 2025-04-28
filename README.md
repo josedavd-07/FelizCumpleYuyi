@@ -1,12 +1,41 @@
-# React + Vite
+# 🎉✨ ¡Un Cumpleaños Especial para Yuliana! ✨🎉
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Hecho con mucho cariño por:**  
+💛 **Jose David Carranza Angarita** 💛
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌷 Sobre este regalo
 
-## Expanding the ESLint configuration
+Esta es una tarjeta de cumpleaños creada especialmente para **Yuliana**, una persona que ilumina el mundo con su sonrisa.  
+Aquí encontrarás un mensaje sorpresa lleno de amor, imágenes especiales y una melodía que acompaña el momento sin detenerse, como un abrazo hecho música. 🎶
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌟 Características mágicas
+
+- 🎵 Música que sigue sonando mientras ves el mensaje especial.
+- 🎂 Imágenes que capturan momentos hermosos.
+- ✨ Mensaje lleno de buenos deseos y bendiciones.
+- 💻 Diseño sencillo, bonito y hecho con el corazón.
+
+---
+
+## 🛠️ Tecnologías usadas
+
+- **ReactJS**
+- **CSS**
+
+---
+
+## 🎈 Dedicado para ti, Yuliana
+>
+> "Hoy no es un día cualquiera... Hoy el mundo celebra que existes."
+
+Que cada sonrisa tuya siga haciendo de este mundo un lugar más bonito. 🌸
+
+---
+
+**Con muchísimo cariño,  
+para la personita más especial:**  
+**Yuyi - Yuli - Yuliita - Yulianita = Yuliana 💖🌟**
