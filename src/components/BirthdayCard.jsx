@@ -50,8 +50,8 @@ const BirthdayCard = ({ onShowMessage }) => {
 
                         Un día como hoy, 23 de mayo, nació una persona capaz de regalar alegría con solo una mirada y de iluminarlo todo con su sonrisa. 🎇<br /><br />
 
-                        Me siento afortunado de conocerte y de poder desearte un cumpleaños lleno de momentos mágicos, risas sinceras y sueños que empiecen a hacerse realidad.
-                        Que la vida te devuelva en felicidad todo lo bonito que tú le regalas a quienes te rodean. ✨<br /><br />
+                        Hoy quiero desearte un cumpleaños lleno de momentos mágicos, risas y sueños que comiencen a hacerse realidad.
+                        Que la vida te devuelva en felicidad todo lo bonito que tú regalas a quienes te rodean. ✨<br /><br />
 
                         En este día tan especial, pásala genial al lado de tus seres queridos. Disfruta cada momento de la vida de la mano del Señor, sirviéndole con amor y guardando su palabra,
                         confiando siempre en que Él concederá las peticiones de tu corazón y te dará todo aquello que tanto anhelas. Recuerda que Él es tu amigo fiel
@@ -64,8 +64,7 @@ const BirthdayCard = ({ onShowMessage }) => {
 
                         Con mucho cariño, para esa personita tan especial: <strong>Yuyi - Yuli - Yulicita - Yulianita = Yuliana ✨😊</strong>
                     </p>
-                    {/* Aca debe de quedar el audio */}
-                    
+
                 </div>
             )}
         </div>
