@@ -60,7 +60,7 @@ const BirthdayCard = ({ onShowMessage }) => {
                         Ojalá este sea solo el comienzo de un año inolvidable para ti, lleno de amor, nuevas aventuras y muchísima felicidad.
                         Nunca dejes de sonreír, porque tu sonrisa tiene el poder de hacer de este mundo un lugar mucho más bonito. 🎈🎉<br /><br />
 
-                        ¡Feliz cumpleaños, hermosa! 🎂🌷<br /><br />
+                        ¡Feliz cumpleaños Yuyi! 🎂🌷<br /><br />
 
                         Con mucho cariño, para esa personita tan especial: <strong>Yuyi - Yuli - Yulicita - Yulianita = Yuliana ✨😊</strong>
                     </p>
